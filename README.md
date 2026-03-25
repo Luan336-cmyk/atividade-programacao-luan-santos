@@ -321,4 +321,5 @@ Se quiser, posso te mostrar como transformar isso em um joguinho simples ou até
 
  
 ### Reflexão
-(Análise do estudante sobre os aprendizados e percepções.)
+No prompt inicial a LLM fez uma lista resumida das utilizações da função random(), porém para um iniciante fica massivo e confuso. Quanto mais eu prossigo no exercício de utilizar
+prompts mais específicos, mais destrinchados ficam os exemplos de utilização da função, o que me ajuda a estudar uma utilização por vez.
